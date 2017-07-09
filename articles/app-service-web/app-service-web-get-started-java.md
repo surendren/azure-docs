@@ -195,3 +195,14 @@ The **Overview** page appears. This page gives you a view of how the app is doin
 
 > [!div class="nextstepaction"]
 > [Map custom domain](app-service-web-tutorial-custom-domain.md)
+
+
+[!INCLUDE [quickstarts-free-trial-note](../../includes/quickstarts-free-trial-note.md)]
+
+## Additional Resources
+
+Tutorials to refer:
+
+* [Eclipse Tutorial](http://eclipsetutorial.sourceforge.net/totalbeginner.html)
+* [Java Tutorial](http://java2all.com/java-tutorial/)
+
